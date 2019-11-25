@@ -1,0 +1,2 @@
+# AutoEnv
+Scatter diagrams are typically available in the form of observation counts or normalised into frequencies. These classes of Python modules aim to perform long-term uncertainty modelling of sea state parameters in an automated fashion. The first class takes in the scatter diagram and fits model parameters using DNV recommended probability distributions, while the second class performs various analyses with the fitted model. These include extrapolating return period significant wave heights, and contouring of  𝑁 -year conditions.
